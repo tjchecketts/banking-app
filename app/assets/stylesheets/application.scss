@@ -1,0 +1,7 @@
+@import "semantic-ui";
+
+// created custom navbar-bg class in _navbar
+// "!important" overrides other styles
+.navbar-bg {
+  background-color: #5FF45F !important;
+}
